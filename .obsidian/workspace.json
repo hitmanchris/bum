@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f0a4c0f4849945e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3b59877efd333240",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md"
+                "file": "README.md"
               }
             }
           },
@@ -223,10 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b4aa7a6607a60e8",
+  "active": "f0a4c0f4849945e3",
   "lastOpenFiles": [
-    "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md",
     "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+    "README.md",
+    "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",
     "Zeichungen/Drawing 2024-03-07 13.32.30.excalidraw.md",
@@ -252,7 +265,6 @@
     "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
     "Zeichungen/Drawing 2024-03-06 08.56.48.excalidraw.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
-    "private sachen/Katze.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester",
     "schule/bilder und andere tigerische sachen/Pflichtenheft bsp.pdf",
     "schule/2 klasse/tigerwerktechnik/2 semester",
