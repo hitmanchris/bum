@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "interesante sachen/Katze.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "interesante sachen/Katze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "interesante sachen/Katze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "interesante sachen/Katze.md"
               }
             }
           },
@@ -237,8 +237,9 @@
   },
   "active": "f0a4c0f4849945e3",
   "lastOpenFiles": [
-    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
     "README.md",
+    "private sachen/Untitled",
+    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
     "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",
@@ -264,7 +265,6 @@
     "schule/2 klasse/itp2_kak/2 semester/2 Semester_itp2.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
     "Zeichungen/Drawing 2024-03-06 08.56.48.excalidraw.md",
-    "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester",
     "schule/bilder und andere tigerische sachen/Pflichtenheft bsp.pdf",
     "schule/2 klasse/tigerwerktechnik/2 semester",
@@ -274,7 +274,6 @@
     "schule/2 klasse/sytiger/elektrokak/2 semester",
     "schule/bilder und andere tigerische sachen/Pasted Image 20240214142130_375.png",
     "schule/bilder und andere tigerische sachen/Pasted image 20240122132642.png",
-    "schule/2 klasse/Englisch Übung für SA",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Unbenannt.canvas",

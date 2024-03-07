@@ -4,8 +4,8 @@ tags:
 ---
 [[schule/BOB BEHÄLTER|BOB BEHÄLTER]]
 [[Zeichungen/bob|bob]]
-[[private sachen/KMS_Privat|KMS_Privat]]
-[[private sachen/bum|bum]]
+[[interesante sachen/KMS_Privat|KMS_Privat]]
+[[interesante sachen/bum|bum]]
 
 # Monologe über dem Femboyhass
 Huren
