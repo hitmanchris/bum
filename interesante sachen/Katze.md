@@ -3,7 +3,8 @@ tags:
   - Cat
 ---
 Wer eine katze will die sein mouse cursor verfolgt
-- 
+- https://medium.com/@gareth.stretton/obsidian-fun-animated-kitten-that-follows-your-cursor-66148dad6b5e
+
 
 
 # bum
