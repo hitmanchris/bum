@@ -1,1 +1,1 @@
-Wer das ließt ist ein netter schwarzer man. → Bum btw
+Wer das ließt ist ein netter schwarzer man. Hehehehehehe
