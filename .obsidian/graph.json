@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Zeichungen",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#syt ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#medt ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#ggp",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#tiggerSI ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#itp2  ",
+      "color": {
+        "a": 1,
+        "rgb": 7036186
+      }
+    },
+    {
+      "query": "tag:#2_klasse",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#bob  ",
+      "color": {
+        "a": 1,
+        "rgb": 1315887
+      }
+    },
+    {
+      "query": "tag:#privat ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Deutsch  ",
+      "color": {
+        "a": 1,
+        "rgb": 15333888
+      }
+    },
+    {
+      "query": "tag:#femboygenozidplan  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.02027027027027,
+  "lineSizeMultiplier": 4.32255717255717,
+  "collapse-forces": false,
+  "centerStrength": 0.824324324324324,
+  "repelStrength": 20,
+  "linkStrength": 0.707900207900208,
+  "linkDistance": 30,
+  "scale": 0.5804431065747809,
+  "close": false
+}

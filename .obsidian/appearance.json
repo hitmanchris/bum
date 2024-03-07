@@ -1,0 +1,15 @@
+{
+  "accentColor": "#9900ff",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Comic Sans MS",
+  "baseFontSize": 20,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "checkbox",
+    "clutter-free-formatting",
+    "clutter-free-headings",
+    "inline-block-embeds",
+    "notation-colour-blocks",
+    "xd"
+  ]
+}

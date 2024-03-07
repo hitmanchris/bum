@@ -1,0 +1,3 @@
+- Komponente eines Mikroprozessors
+	- ALU (Arithmetic Logical Unit)
+		- Rechenwerk

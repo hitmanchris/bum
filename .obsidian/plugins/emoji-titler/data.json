@@ -1,0 +1,35 @@
+{
+  "emojis": [
+    {
+      "id": 0,
+      "name": "seedling",
+      "emoji": "🇾"
+    },
+    {
+      "id": 1,
+      "name": "leaves",
+      "emoji": "🐯"
+    },
+    {
+      "id": 2,
+      "name": "tree",
+      "emoji": "🐻"
+    },
+    {
+      "id": 3,
+      "name": "done",
+      "emoji": "🐻‍❄️"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "emoji": "🧸"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "emoji": ""
+    }
+  ],
+  "tag_on": true
+}

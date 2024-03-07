@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "c2e7a9f0d7f208b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ad4d107a1b5348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f3ea466b5d7522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b4aa7a6607a60e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b59877efd333240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Femboy Genozid Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539806dc92bfddf8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72a16ba93ab2996f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c154bbabf4c63aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1bea476af59aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0fce59c00e0a2b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:tiggerSI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b649defd99d28a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "040507d0002ef24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cd1973606b49e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19143a414399e526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2c9d520257978cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f12d50a612b09092",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "525613ca684fa446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md"
+              }
+            }
+          },
+          {
+            "id": "d51cadc9ad2ec1e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "9037d7efd663ab55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0377b80b5baf843",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "beddcbbc76982e4f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "1094a68eb139ddea",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0b4aa7a6607a60e8",
+  "lastOpenFiles": [
+    "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md",
+    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
+    "schule/2 klasse/de_tiger/alle HÜs/Untitled",
+    "schule/2 klasse/de_tiger/alle HÜs",
+    "Zeichungen/Drawing 2024-03-07 13.32.30.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-07 13.09.21.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-07 13.25.26.excalidraw.md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+    "Zeichungen/Drawing 2024-03-07 12.08.07.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-07 13.02.06.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-07 12.02.48.excalidraw.md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/Dotierung.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Welchelstromtechnik.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-06 15.26.03.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-06 15.21.41.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-06 15.15.18.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-06 14.58.51.excalidraw.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Komparator.md",
+    "Zeichungen/Drawing 2024-03-06 14.44.29.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-05 09.50.02.excalidraw.md",
+    "schule/2 klasse/medtiger/2 Semester_osko_theorie.md",
+    "schule/2 klasse/itp2_kak/2 semester/2 Semester_itp2.md",
+    "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
+    "Zeichungen/Drawing 2024-03-06 08.56.48.excalidraw.md",
+    "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
+    "private sachen/Katze.md",
+    "schule/2 klasse/sytiger/informatikbum/2 semester",
+    "schule/bilder und andere tigerische sachen/Pflichtenheft bsp.pdf",
+    "schule/2 klasse/tigerwerktechnik/2 semester",
+    "schule/2 klasse/itp2_kak/2 semester",
+    "schule/2 klasse/medtiger/2 semester_loib7",
+    "schule/2 klasse/Naturwissenschaft/2 semester",
+    "schule/2 klasse/sytiger/elektrokak/2 semester",
+    "schule/bilder und andere tigerische sachen/Pasted Image 20240214142130_375.png",
+    "schule/bilder und andere tigerische sachen/Pasted image 20240122132642.png",
+    "schule/2 klasse/Englisch Übung für SA",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Unbenannt.canvas",
+    "Unbenannt 1.canvas"
+  ]
+}
