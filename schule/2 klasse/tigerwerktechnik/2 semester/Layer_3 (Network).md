@@ -37,7 +37,9 @@ tags:
 	- Selbst 
 		- 127.0.0.0/8
 	- Lokal 
+		- Kommunikation innerhalb des lokalen Netzwerks 
 	- remote
+		- 
 
 
 
