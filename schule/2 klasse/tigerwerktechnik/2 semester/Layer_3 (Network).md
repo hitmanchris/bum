@@ -24,5 +24,15 @@ tags:
 - Protokoll als Verbindung zwischen OSI L2 & L3
 - ![[schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw]]
 
-- Standar
+# Standard Gateway
+
+- 1. Router im lokalen Netz 
+- 1. Anhaltstelle in andere Netze
+- Nachrihten an unbekannte Netze werden an Stand
+
+
+
+
+
+
 
