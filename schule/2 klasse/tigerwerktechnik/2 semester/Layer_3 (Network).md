@@ -22,7 +22,7 @@ tags:
 # ARP
 
 - Protokoll als Verbindung zwischen OSI L2 & L3
-- ![[schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw]]
+- ![[Zeichungen/Drawing 2024-03-08 14.00.16.excalidraw]]
 
 # Standard Gateway
 
@@ -40,7 +40,8 @@ tags:
 		- Kommunikation innerhalb des lokalen Netzwerks 
 	- remote
 		- Kommunikation mit entfernten Netzwerken über Standart Gateways
-	- 
+
+
 
 
 
