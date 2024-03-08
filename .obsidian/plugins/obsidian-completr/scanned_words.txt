@@ -1225,6 +1225,7 @@ AjeUrl
 Asia
 Admin
 Artikel
+Ausgleichen
 User
 UDP
 Unshielded
@@ -1838,6 +1839,7 @@ Reaktionen
 RDP
 Risiko
 RMQK
+Reaktionsgleichungen
 hier
 hat
 haben
@@ -4871,6 +4873,7 @@ Haushalt
 Übergängen
 Übersicht
 Überprüffen
+Übungen
 VIEW
 Verlusthyperbel
 Verhindern

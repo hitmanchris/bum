@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw.md"
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md"
               }
             }
           },
@@ -245,10 +244,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8324d3ee815da9ce",
+  "active": "76f3ea466b5d7522",
   "lastOpenFiles": [
-    "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-08 14.00.16.excalidraw.md",
+    "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
     "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "Drawing 2024-03-06 15.26.03.excalidraw.md",
     "schule/2 klasse/de_tiger/alle HÜs/Erörterung.md",
@@ -262,7 +262,6 @@
     "Zeichungen/Drawing 2024-03-07 13.32.30.excalidraw.md",
     "Zeichungen/Drawing 2024-03-07 13.09.21.excalidraw.md",
     "Zeichungen/Drawing 2024-03-07 13.25.26.excalidraw.md",
-    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
     "Zeichungen/Drawing 2024-03-07 12.08.07.excalidraw.md",
     "Zeichungen/Drawing 2024-03-07 13.02.06.excalidraw.md",
     "Zeichungen/Drawing 2024-03-07 12.02.48.excalidraw.md",
