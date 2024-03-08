@@ -39,7 +39,7 @@ tags:
 	- Lokal 
 		- Kommunikation innerhalb des lokalen Netzwerks 
 	- remote
-		- 
+		- Kommunikation mit entfernten Netzwerken ü
 
 
 
