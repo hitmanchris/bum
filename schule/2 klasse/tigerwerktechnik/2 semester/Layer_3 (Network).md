@@ -34,6 +34,10 @@ tags:
 
 # Host Routing
 - Wegfindung von einem Host
+	- Selbst 
+		- 127.0.0.0/8
+	- Lokal 
+	- remote
 
 
 
