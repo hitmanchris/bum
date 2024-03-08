@@ -30,36 +30,13 @@
     "2024/2/4": 75,
     "2024/2/5": 136,
     "2024/2/6": 878,
-    "2024/2/7": 193
+    "2024/2/7": 193,
+    "2024/2/8": 4
   },
   "todaysWordCount": {
-    "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md": {
-      "initial": 10,
-      "current": 12
-    },
-    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md": {
-      "initial": 0,
-      "current": 143
-    },
-    "schule/2 klasse/de_tiger/alle HÜs.md": {
-      "initial": 612,
-      "current": 612
-    },
-    "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md": {
-      "initial": 611,
-      "current": 611
-    },
-    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md": {
-      "initial": 0,
-      "current": 17
-    },
-    "README.md": {
-      "initial": 1,
-      "current": 9
-    },
-    "interesante sachen/Katze.md": {
-      "initial": 459,
-      "current": 482
+    "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md": {
+      "initial": 24,
+      "current": 28
     }
   }
 }
