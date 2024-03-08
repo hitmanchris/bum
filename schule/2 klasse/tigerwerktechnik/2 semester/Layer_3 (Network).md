@@ -28,9 +28,12 @@ tags:
 
 - 1. Router im lokalen Netz 
 - 1. Anhaltstelle in andere Netze
-- Nachrihten an unbekannte Netze werden an Stand
+- Nachrichten an unbekannte Netze werden an Standard Gateways geschickt
 
 
+
+- Host routing
+- 
 
 
 
