@@ -36,8 +36,6 @@ Bsp
 
 [[schule/2 klasse/sytiger/elektrokak/2 semester/Operationsverstärker]]
 
-# Linux
-[[schule/2 klasse/sytiger/informatikbum/2 semester/Linux]]
 
 # Komparator
 [[schule/2 klasse/sytiger/elektrokak/2 semester/Komparator]]

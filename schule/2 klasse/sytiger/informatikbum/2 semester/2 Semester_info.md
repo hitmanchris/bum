@@ -121,3 +121,5 @@ ALU→ Arithmetische und Logische Unit
 		- FLOPS
 			- Floating Point Operations per Second
 
+# Linux
+[[schule/2 klasse/sytiger/informatikbum/2 semester/Linux]]
