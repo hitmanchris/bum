@@ -36,6 +36,8 @@ Bsp:
 				- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.04.44.excalidraw]]
 		- Wie bestimmt man die Teilchenzahl
 			- In der Chemie sind die Teilchenzahlen sehr groß (In der Größenordnung 10²³) 
-		- 
+		- Errinerung
+			- 1 Dutzend = 12
+			- In der Chemie benutzt man 
 
 
