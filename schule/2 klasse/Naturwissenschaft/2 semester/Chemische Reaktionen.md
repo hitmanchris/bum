@@ -38,6 +38,8 @@ Bsp:
 			- In der Chemie sind die Teilchenzahlen sehr groß (In der Größenordnung 10²³) 
 		- Errinerung
 			- 1 Dutzend = 12
-			- In der Chemie benutzt man 
+			- In der Chemie benutzt man mol
+				- 1 mol = 6,022 * 10²³
+		- 
 
 
