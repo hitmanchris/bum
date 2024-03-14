@@ -49,8 +49,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md"
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md"
               }
             }
           },
@@ -221,10 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "956efafb76be2ba2",
+  "active": "76f3ea466b5d7522",
   "lastOpenFiles": [
-    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Dotierung.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
