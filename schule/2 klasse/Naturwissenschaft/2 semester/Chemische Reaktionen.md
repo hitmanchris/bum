@@ -35,6 +35,6 @@ Bsp:
 			- Einführungs-Bsp: Sandwich aus Toast, Schinken und Käse 
 				- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.04.44.excalidraw]]
 		- Wie bestimmt man die Teilchenzahl
-		- In der Chemie sind
+		- In der Chemie sind die Teilchenzahlen sehr groß (In der Größenordnung 10²³) 
 
 
