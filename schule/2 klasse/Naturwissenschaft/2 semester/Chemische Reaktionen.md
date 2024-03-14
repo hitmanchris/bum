@@ -26,5 +26,8 @@ Bsp:
 		- 1. Natrium mit Wasser. Dabei entsteht H2-Gas.
 		- 2. Knallgasreaktion.H2 reagiert mit O2.
 	- ![[Zeichungen/Drawing 2024-03-07 13.25.26.excalidraw]]
-- Übungen: Ausgleichen von Reaktionsgleichungen
-	- 
+
+
+
+
+
