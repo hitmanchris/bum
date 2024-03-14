@@ -1744,6 +1744,8 @@ Selbst
 Standart
 SO
 SPGPtI
+Sandwich
+Schinken
 Router
 RJ
 Reflektierende
@@ -4219,6 +4221,7 @@ TEb
 TG
 TsC
 TJU
+Toast
 oder
 of
 over
