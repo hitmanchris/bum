@@ -32,7 +32,7 @@ Bsp:
 	- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw]]
 	- Anwendung
 		- Chemisches Rechnen
-			- Einführungs Bsp: Sandwich aus Toast und Schi
+			- Einführungs Bsp: Sandwich aus Toast und Schinken 
 				- 
 				 
 
