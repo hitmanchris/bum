@@ -42,6 +42,7 @@ Bsp:
 				- 1 mol = 6,022 * 10²³
 			- Stoffmengen werden immer in Mol angegeben
 				- z.B
-					- 
+					- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.20.21.excalidraw]]
+			- 
 
 
