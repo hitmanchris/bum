@@ -40,6 +40,7 @@ Bsp:
 			- 1 Dutzend = 12
 			- In der Chemie benutzt man mol
 				- 1 mol = 6,022 * 10²³
-		- 
+			- Stoffmengen werden immer in Mol angegeben
+				- z.B
 
 
