@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "956efafb76be2ba2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8324d3ee815da9ce",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md"
+                "file": "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md"
               }
             }
           },
@@ -220,8 +231,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76f3ea466b5d7522",
+  "active": "956efafb76be2ba2",
   "lastOpenFiles": [
+    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
+    "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Dotierung.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
@@ -229,7 +242,6 @@
     "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
     "Zeichungen/Drawing 2024-03-08 14.55.56.excalidraw.md",
     "Zeichungen/Drawing 2024-03-08 14.00.16.excalidraw.md",
-    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "Drawing 2024-03-06 15.26.03.excalidraw.md",
     "schule/2 klasse/de_tiger/alle HÜs/Erörterung.md",
@@ -250,7 +262,6 @@
     "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-06 15.26.03.excalidraw.md",
     "Zeichungen/Drawing 2024-03-06 15.21.41.excalidraw.md",
     "Zeichungen/Drawing 2024-03-06 15.15.18.excalidraw.md",
-    "Zeichungen/Drawing 2024-03-06 14.58.51.excalidraw.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester",
     "schule/bilder und andere tigerische sachen/Pflichtenheft bsp.pdf",
     "schule/2 klasse/tigerwerktechnik/2 semester",
