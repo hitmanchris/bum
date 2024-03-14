@@ -34,6 +34,7 @@ Bsp:
 		- <mark style="background: #BBFABBA6;">Chemisches Rechnen</mark>
 			- Einführungs-Bsp: Sandwich aus Toast, Schinken und Käse 
 				- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.04.44.excalidraw]]
-		- 
+		- Wie bestimmt man die Teilchenzahl?
+			- 
 
 
