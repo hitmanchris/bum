@@ -1748,6 +1748,7 @@ SPGPtI
 Sandwich
 Schinken
 Skkzjj
+Scheiben
 Router
 RJ
 Reflektierende
@@ -2925,6 +2926,7 @@ GKLy
 Gateway
 Gateways
 GWH
+Geg
 config
 console
 cabling
@@ -3466,6 +3468,7 @@ znZi
 zwei
 zNRw
 zIZvhtn
+zxNhaJR
 welchet
 wie
 wenn
