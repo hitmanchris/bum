@@ -46,5 +46,7 @@ Bsp:
 			- Molmasse M ist die Masse m pro mol.
 				- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.22.25.excalidraw]]
 				- Einheit
+					- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 16.23.07.excalidraw]]
+			- 
 
 
