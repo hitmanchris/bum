@@ -29,7 +29,7 @@ Bsp:
 
 
 - Übungen : Reaktionsgleichung ausgleichen
-	- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-14 15.44.16.excalidraw]]
+	- ![[Zeichungen/Drawing 2024-03-14 15.44.16.excalidraw]]
 	- Anwendung
 		- <mark style="background: #BBFABBA6;">Chemisches Rechnen</mark>
 			- Einführungs-Bsp: Sandwich aus Toast, Schinken und Käse 
