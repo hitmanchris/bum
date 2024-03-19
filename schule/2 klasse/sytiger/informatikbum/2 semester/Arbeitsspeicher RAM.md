@@ -31,7 +31,7 @@ Speicher ausschließlich  zum Lesen vorgegeben. Muss irgendwann natürlich besch
 		- Fest "eingebautes" Bitmuster mit nicht veränderbaren Daten.
 	- PROM 
 		- Programmierbare Festwertspeicher - wird unter anderem elektrisch einmalig beschrieben, kann aber nicht mehr verändert werden.
-	- EPROM(Erakbale programmable Read Only Memory)
+	- EPROM(Erasabale programmable Read Only Memory)
 		- wie PROM, kann aber mit UV Licht gelöscht werden und neu beschrieben werden.
 	- EEPROM (Eletrical Erasable PROM)
 		- Wie PROM, kann aber mit elektrischem Strom wieder gelöscht werden und neu beschrieben werden.
