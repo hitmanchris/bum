@@ -127,6 +127,7 @@ trotz
 tRnI
 tWX
 tvzm
+teurerer
 klasse
 kann
 kommt
@@ -1074,6 +1075,8 @@ besagte
 betonen
 betroffen
 bXjj
+baugleiche
+bereits
 ABF
 ADCCFFA
 Applikation
@@ -1755,6 +1758,7 @@ Schinken
 Skkzjj
 Scheiben
 Stoffmengen
+Synchronous
 Router
 RJ
 Reflektierende
@@ -1884,6 +1888,7 @@ Ro
 RTXzr
 RBqCb
 Rechnen
+Regel
 hier
 hat
 haben
@@ -2679,6 +2684,7 @@ abchecken
 anstrengen
 ausgleichen
 angegeben
+aufgefrischt
 BBFABBA
 Beispiel
 Bandbreite
@@ -4314,6 +4320,7 @@ osRellzR
 oGYZcdFJ
 oZ
 obeiVnDl
+oft
 Ethernet
 EZ
 EXCALIDRAW
