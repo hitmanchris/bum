@@ -34,7 +34,7 @@
     "2024/2/8": 73,
     "2024/2/11": 0,
     "2024/2/14": 137,
-    "2024/2/19": 11
+    "2024/2/19": 16
   },
   "todaysWordCount": {
     "schule/2 klasse/itp2_kak/2 semester/2 Semester_itp2.md": {
@@ -48,6 +48,10 @@
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md": {
       "initial": 138,
       "current": 149
+    },
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Basics Wiederholen.md": {
+      "initial": 0,
+      "current": 5
     }
   }
 }
