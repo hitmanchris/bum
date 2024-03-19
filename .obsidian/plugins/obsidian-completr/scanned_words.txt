@@ -1077,6 +1077,7 @@ betroffen
 bXjj
 baugleiche
 bereits
+bUSESBF
 ABF
 ADCCFFA
 Applikation
@@ -2941,6 +2942,7 @@ Gateways
 GWH
 Geg
 Größenordnung
+Gesetz
 config
 console
 cabling
@@ -4732,6 +4734,7 @@ OpticIndia
 Ordnung
 OKF
 OOtnsvHQ
+Ohmsches
 Data
 DNS
 Drawing
