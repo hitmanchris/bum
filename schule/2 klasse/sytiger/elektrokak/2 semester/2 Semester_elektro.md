@@ -46,7 +46,7 @@ Wiederholung am Montag→ Halbleiter
 # Wechselstromtechnik
 [[schule/2 klasse/sytiger/elektrokak/2 semester/Welchelstromtechnik]]
 
-
-
+# Basics Wiederholen 
+[[schule/2 klasse/sytiger/elektrokak/2 semester/Basics Wiederholen]]
 
 
