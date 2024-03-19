@@ -4,7 +4,10 @@ tags:
   - syt
 ---
 
-# Ohmsches geset
+# Ohmsches Gesetz 
+- U= R*I
+- I= U/R
+- 
 
 
 
