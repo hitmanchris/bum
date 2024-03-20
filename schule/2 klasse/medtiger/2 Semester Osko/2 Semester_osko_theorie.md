@@ -66,7 +66,8 @@ Max 3 Farben→ Damit es nicht zu bund wird. z.B Schwarz-Weisß-Blau
 	- Ist das wichtigste Gestaltungsmittel.
 	- Farbe schmückt, Farbe signalisiert, Farbe schreit, Farbe Gliedert, Farbe Kommuniziert,...
 	- Farben wirken in unterschiedlichen Umgebungen unterschiedlich 
-	- Farbe
+	- Farbe hat immer eine bestimmte Botschaft
+	- Farbe ist identitätsstiftend.
 
 
 
