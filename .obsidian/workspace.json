@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
+                "file": "schule/2 klasse/medtiger/2 Semester_osko_theorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
+                "file": "schule/2 klasse/medtiger/2 Semester_osko_theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
+                "file": "schule/2 klasse/medtiger/2 Semester_osko_theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md"
+                "file": "schule/2 klasse/medtiger/2 Semester_osko_theorie.md"
               }
             }
           },
@@ -212,8 +212,9 @@
   },
   "active": "76f3ea466b5d7522",
   "lastOpenFiles": [
-    "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
+    "schule/2 klasse/medtiger/2 semester_loib7/2 Semester_loib.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
+    "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/Basics Wiederholen.md",
     "Zeichungen/Drawing 2024-03-19 09.42.13.excalidraw.md",
@@ -238,7 +239,6 @@
     "README.md",
     "private sachen/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md",
-    "schule/2 klasse/de_tiger/alle HÜs/Stellungnahme.md",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",
     "schule/2 klasse/sytiger/informatikbum/2 semester",
