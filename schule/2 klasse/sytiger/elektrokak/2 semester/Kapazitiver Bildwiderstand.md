@@ -18,5 +18,5 @@
 # Idealen passiven Bauelemente
 (bei Wechselstrom) 
 
-
+ω
 

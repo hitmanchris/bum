@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "µ",
+      "name": "micro sign",
+      "useCount": 5,
+      "lastUsed": 1710943189336
+    },
+    {
       "char": "Ω",
       "name": "ohm sign",
       "useCount": 13,
@@ -13,8 +19,8 @@
     {
       "char": "ω",
       "name": "greek small letter omega",
-      "useCount": 4,
-      "lastUsed": 1710942799780
+      "useCount": 5,
+      "lastUsed": 1710943524492
     },
     {
       "char": "ρ",
@@ -27,12 +33,6 @@
       "name": "latin small letter delta",
       "useCount": 1,
       "lastUsed": 1709809636506
-    },
-    {
-      "char": "µ",
-      "name": "micro sign",
-      "useCount": 5,
-      "lastUsed": 1710943189336
     },
     {
       "char": "ῡ",
