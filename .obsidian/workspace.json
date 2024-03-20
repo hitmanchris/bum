@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
+                "file": "interesante sachen/Katze.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
+                "file": "interesante sachen/Katze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
+                "file": "interesante sachen/Katze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md"
+                "file": "interesante sachen/Katze.md"
               }
             }
           },
@@ -210,8 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df1bea476af59aee",
+  "active": "76f3ea466b5d7522",
   "lastOpenFiles": [
+    "interesante sachen/bum.md",
+    "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
+    "interesante sachen/KMS_Privat.md",
     "schule/2 klasse/medtiger/2 Semester Osko",
     "schule/2 klasse/medtiger/2 semester_loib7/2 Semester_loib.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
@@ -236,8 +239,6 @@
     "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "Drawing 2024-03-06 15.26.03.excalidraw.md",
     "schule/2 klasse/de_tiger/alle HÜs/Erörterung.md",
-    "interesante sachen/Katze.md",
-    "README.md",
     "private sachen/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",
@@ -247,7 +248,6 @@
     "schule/2 klasse/itp2_kak/2 semester",
     "schule/2 klasse/medtiger/2 semester_loib7",
     "schule/2 klasse/Naturwissenschaft/2 semester",
-    "schule/2 klasse/sytiger/elektrokak/2 semester",
     "schule/bilder und andere tigerische sachen/Pasted Image 20240214142130_375.png",
     "schule/bilder und andere tigerische sachen/Pasted image 20240122132642.png",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",

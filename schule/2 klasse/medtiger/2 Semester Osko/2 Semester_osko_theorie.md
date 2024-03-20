@@ -50,7 +50,7 @@ Max 3 Farben→ Damit es nicht zu bund wird. z.B Schwarz-Weisß-Blau
 
 - <mark style="background: #FFF3A3A6;">Design</mark>
 	- hinter jedem gestalterischen Entwurf steht eine Absicht bzw. ein Auftrag
-	- Die Absicht wtwas schöner, funktioneller, zweckmäßiger, farbiger, benutzerfreundlicher zu machen
+	- Die Absicht etwas schöner, funktioneller, zweckmäßiger, farbiger, benutzerfreundlicher zu machen
 	- Vorgaben im Style Guide des Corporate Designs sind einzuhalten!
 - <mark style="background: #FFF3A3A6;">Usability</mark>
 	- Menschen bedienen eine Vielzahl an technischen Geräten und Maschinen, wenn die Bedienung einfach und intuitiv möglich ist, spricht man von nutzfreundlichem Produkt oder guter Usability
