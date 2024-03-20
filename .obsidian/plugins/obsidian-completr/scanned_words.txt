@@ -1942,6 +1942,7 @@ RTXzr
 RBqCb
 Rechnen
 Regel
+Rd
 hier
 hat
 haben
@@ -2549,6 +2550,7 @@ reagiert
 rGloHBQq
 reichen
 roGDFhzU
+rUWFP
 admin
 alles
 anschauen
@@ -2896,6 +2898,7 @@ Bozhidar
 Botschaft
 Bildwiderstand
 BBejjL
+Bc
 Global
 Gigabit
 Goodput
@@ -3581,6 +3584,7 @@ zxNhaJR
 zweckmäßiger
 zudecken
 zVKWBcbB
+zsCwtZ
 welchet
 wie
 wenn
@@ -3715,6 +3719,8 @@ wollte
 wtwas
 wertvolle
 weiterzuentwickeln
+wuEduwTH
+weRoZqTR
 Line
 Layer
 Latenz
