@@ -127,3 +127,9 @@ ALU→ Arithmetische und Logische Unit
 
 
 
+
+
+
+
+
+
