@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichungen/Drawing 2024-03-20 14.53.49.excalidraw.md",
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeichungen/Drawing 2024-03-20 14.53.49.excalidraw.md",
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeichungen/Drawing 2024-03-20 14.53.49.excalidraw.md"
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md"
               }
             }
           },
@@ -225,10 +224,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22f4ee23af1012b0",
+  "active": "76f3ea466b5d7522",
   "lastOpenFiles": [
-    "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
     "Zeichungen/Drawing 2024-03-20 14.53.49.excalidraw.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
     "Zeichungen/Drawing 2024-03-20 14.47.49.excalidraw.md",
     "Zeichungen/Drawing 2024-03-20 14.46.08.excalidraw.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
