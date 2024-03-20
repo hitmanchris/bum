@@ -5,10 +5,16 @@
   },
   "data": [
     {
+      "char": "ẟ",
+      "name": "latin small letter delta",
+      "useCount": 1,
+      "lastUsed": 1709809636506
+    },
+    {
       "char": "ω",
       "name": "greek small letter omega",
-      "useCount": 2,
-      "lastUsed": 1709734150343
+      "useCount": 3,
+      "lastUsed": 1710942507868
     },
     {
       "char": "Ω",
@@ -36245,12 +36251,6 @@
     {
       "char": "ȸ",
       "name": "latin small letter db digraph"
-    },
-    {
-      "char": "ẟ",
-      "name": "latin small letter delta",
-      "useCount": 1,
-      "lastUsed": 1709809636506
     },
     {
       "char": "ʤ",

@@ -2892,6 +2892,8 @@ Bildteil
 Begriffen
 Bozhidar
 Botschaft
+Bildwiderstand
+BBejjL
 Global
 Gigabit
 Goodput
@@ -3427,6 +3429,7 @@ gGC
 gestalterischen
 guter
 gWNF
+gADAhu
 ändern
 In
 IP
@@ -3575,6 +3578,7 @@ zIZvhtn
 zxNhaJR
 zweckmäßiger
 zudecken
+zVKWBcbB
 welchet
 wie
 wenn
@@ -4135,6 +4139,7 @@ Kernbotschaften
 Know
 Kapazität
 Kondinsator
+Kapazitiver
 vty
 vie
 von
@@ -5532,6 +5537,7 @@ XGE
 XLR
 XWcmjX
 XWGYjlLi
+Xc
 javascript
 jeder
 job
