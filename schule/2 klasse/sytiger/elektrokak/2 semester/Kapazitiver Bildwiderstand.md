@@ -18,5 +18,8 @@
 # Idealen passiven Bauelemente
 (bei Wechselstrom) 
 
-ω
+![[Zeichungen/Drawing 2024-03-20 15.02.41.excalidraw]]
+
+- Bsp
+	- 
 
