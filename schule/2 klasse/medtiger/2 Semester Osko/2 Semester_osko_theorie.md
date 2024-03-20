@@ -63,7 +63,10 @@ Max 3 Farben→ Damit es nicht zu bund wird. z.B Schwarz-Weisß-Blau
 	- Titel mit prägnanten, den Sachverhalt treffenden Begriffen 
 	- Auf Effekte verzichten, welche die Inhalte übertönen und zudecken
 - <mark style="background: #FFF3A3A6;">Farbenauswahl</mark>
-	- Ist das wichtigste Ges
+	- Ist das wichtigste Gestaltungsmittel.
+	- Farbe schmückt, Farbe signalisiert, Farbe schreit, Farbe Gliedert, Farbe Kommuniziert,...
+	- Farben wirken in unterschiedlichen Umgebungen unterschiedlich 
+	- Farbe
 
 
 
