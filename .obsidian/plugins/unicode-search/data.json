@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "ω",
+      "name": "greek small letter omega",
+      "useCount": 4,
+      "lastUsed": 1710942799780
+    },
+    {
       "char": "ρ",
       "name": "greek small letter rho",
       "useCount": 3,
@@ -13,14 +19,8 @@
     {
       "char": "Ω",
       "name": "ohm sign",
-      "useCount": 12,
-      "lastUsed": 1710942559014
-    },
-    {
-      "char": "ω",
-      "name": "greek small letter omega",
-      "useCount": 4,
-      "lastUsed": 1710942799780
+      "useCount": 13,
+      "lastUsed": 1710943125567
     },
     {
       "char": "ẟ",
