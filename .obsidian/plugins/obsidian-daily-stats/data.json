@@ -34,24 +34,13 @@
     "2024/2/8": 73,
     "2024/2/11": 0,
     "2024/2/14": 137,
-    "2024/2/19": 47
+    "2024/2/19": 47,
+    "2024/2/20": 0
   },
   "todaysWordCount": {
-    "schule/2 klasse/itp2_kak/2 semester/2 Semester_itp2.md": {
-      "initial": 2631,
-      "current": 2631
-    },
-    "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md": {
-      "initial": 339,
-      "current": 339
-    },
-    "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md": {
-      "initial": 138,
-      "current": 149
-    },
-    "schule/2 klasse/sytiger/elektrokak/2 semester/Basics Wiederholen.md": {
-      "initial": 0,
-      "current": 36
+    "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md": {
+      "initial": 581,
+      "current": 581
     }
   }
 }

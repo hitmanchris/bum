@@ -123,3 +123,7 @@ ALU→ Arithmetische und Logische Unit
 
 # Linux
 [[schule/2 klasse/sytiger/informatikbum/2 semester/Linux]]
+
+
+
+

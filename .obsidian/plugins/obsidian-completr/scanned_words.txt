@@ -2819,6 +2819,7 @@ Bach
 Breadcast
 Br
 Bcvz
+Basics
 Global
 Gigabit
 Goodput
@@ -5196,6 +5197,7 @@ WFOptvOq
 Wegfindung
 Wiederholung
 Wechselstromtechnik
+Wiederholen
 yc
 you
 yi
