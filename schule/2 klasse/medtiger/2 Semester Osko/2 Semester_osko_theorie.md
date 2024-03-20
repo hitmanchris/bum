@@ -61,9 +61,9 @@ Max 3 Farben→ Damit es nicht zu bund wird. z.B Schwarz-Weisß-Blau
 	- Navigationssysteme oder -leiste anlegen; verwendete Symbole festlegen
 	- Kernbotschaften hervorheben durch farbiges Hinterlegen, Einrahmen oder durch Symbole bzw. Zeichen
 	- Titel mit prägnanten, den Sachverhalt treffenden Begriffen 
-	- Auf Effekte verzichten, den Sachverhalt treffenden Begriffen
+	- Auf Effekte verzichten, welche die Inhalte übertönen und zudecken
 - <mark style="background: #FFF3A3A6;">Farbenauswahl</mark>
-	- 
+	- Ist das wichtigste Ges
 
 
 
