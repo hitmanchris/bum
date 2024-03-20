@@ -50,3 +50,5 @@ Wiederholung am Montag→ Halbleiter
 [[schule/2 klasse/sytiger/elektrokak/2 semester/Basics Wiederholen]]
 
 
+# Kapazitiver Bildwiderstand
+[[schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand]]
