@@ -20,12 +20,22 @@
             }
           },
           {
+            "id": "657bfdd199c932f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.47.49.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "eb4c2503f07a33c6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.46.08.excalidraw.md"
+                "file": "Zeichungen/Drawing 2024-03-20 14.46.08.excalidraw.md"
               }
             }
           },
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.46.08.excalidraw.md",
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.47.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.46.08.excalidraw.md",
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.47.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.46.08.excalidraw.md"
+                "file": "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.47.49.excalidraw.md"
               }
             }
           },
@@ -221,10 +231,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4c2503f07a33c6",
+  "active": "657bfdd199c932f8",
   "lastOpenFiles": [
     "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
-    "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.46.08.excalidraw.md",
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 14.47.49.excalidraw.md",
+    "Zeichungen/Drawing 2024-03-20 14.46.08.excalidraw.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
     "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
     "interesante sachen/bum.md",
@@ -249,7 +260,6 @@
     "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Dotierung.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/Layer_3 (Network).md",
-    "Zeichungen/Drawing 2024-03-08 14.55.56.excalidraw.md",
     "private sachen/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",

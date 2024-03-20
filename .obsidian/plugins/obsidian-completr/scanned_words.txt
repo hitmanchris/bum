@@ -1112,6 +1112,7 @@ begeistert
 bieten
 beizutragen
 bedanke
+bipolar
 ABF
 ADCCFFA
 Applikation
@@ -2203,6 +2204,7 @@ unfairen
 unerlaubte
 unbekannte
 unterschiedlichen
+unipolar
 FF
 FFB
 FFA
@@ -2311,6 +2313,7 @@ Flächenverhältnis
 Fächern
 Farbenauswahl
 Farbe
+FM
 priveleged
 passwörter
 plugin
@@ -3423,6 +3426,7 @@ geschickt
 gGC
 gestalterischen
 guter
+gWNF
 ändern
 In
 IP
@@ -4129,6 +4133,8 @@ KPbfHuCI
 Käse
 Kernbotschaften
 Know
+Kapazität
+Kondinsator
 vty
 vie
 von
@@ -4427,6 +4433,7 @@ oGYZcdFJ
 oZ
 obeiVnDl
 oft
+oM
 Ethernet
 EZ
 EXCALIDRAW
@@ -5504,6 +5511,7 @@ festlegen
 farbiges
 freue
 freundlichen
+fQpIaN
 XNnxi
 XThqMY
 Xen
@@ -5643,6 +5651,7 @@ xt
 xSeH
 xIkol
 xUx
+xzkI
 öffnen
 öffentliche
 ökonomischen
