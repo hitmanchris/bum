@@ -2458,6 +2458,7 @@ pausierte
 pause
 pAG
 prägnanten
+passiven
 rein
 rechte
 resistance
@@ -2904,6 +2905,7 @@ Bildwiderstand
 BBejjL
 Bc
 BmM
+Bauelemente
 Global
 Gigabit
 Goodput
@@ -3532,6 +3534,7 @@ IT
 Ihrem
 Ihres
 IBEv
+Idealen
 zusatnd
 zb
 zu
@@ -5356,6 +5359,7 @@ Wechselstromtechnik
 Wiederholen
 Websites
 Weisß
+Wechselstrom
 yc
 you
 yi
