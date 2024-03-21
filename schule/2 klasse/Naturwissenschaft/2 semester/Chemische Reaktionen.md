@@ -61,4 +61,11 @@ Bsp:
 		- 1,4 * 10^10 Jahre
 
 - Bsp 
-	- Haben 20.000 1 Euro Münzen, wissen
+	- Haben 20.000 1 Euro Münzen, wissen das aber nicht.
+	- 
+
+
+
+
+
+

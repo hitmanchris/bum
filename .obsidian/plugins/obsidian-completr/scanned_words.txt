@@ -556,6 +556,7 @@ Maschinen
 Mein
 Medientechnik
 MmKUCYAq
+Münzen
 mark
 machen
 mode
@@ -3749,6 +3750,7 @@ weiterzuentwickeln
 wuEduwTH
 weRoZqTR
 whHVl
+wissen
 Line
 Layer
 Latenz
