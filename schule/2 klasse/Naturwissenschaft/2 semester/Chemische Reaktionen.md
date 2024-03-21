@@ -93,7 +93,10 @@ Bsp:
 			- n(Fe) = 625000 mol
 			- $$m(Fe)= 625000mol*56 \frac{g}{mol} = 35.000.000g = 35t$$
 		- Umrechnung
-			- Aus 1 t Fe2O3 kan
+			- Aus 1 t Fe2O3 kann man max 0,7t Fe gewinnen.
+
+
+
 
 
 
