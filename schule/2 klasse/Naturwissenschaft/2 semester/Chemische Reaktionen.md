@@ -98,8 +98,8 @@ Bsp:
 
 - Bsp
 	- Kupfergewinnung:
-	- $$C
-
+	- $$Cu_{2}S + Cu_{2}O → 6Cu+SO_{2}$$
+	- 
 
 
 
