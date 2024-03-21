@@ -80,8 +80,8 @@ Bsp:
 - Anwendungen:
 	- Ausbeute berechnen
 	- Bsp
-		- $$Fe_{2} $$
-			- 
+		- $$Fe_{2}O_{3} → Fe + CO_{2}$$
+			- $$Fe_{2}O_{3} + {3}$$
 
 
 
