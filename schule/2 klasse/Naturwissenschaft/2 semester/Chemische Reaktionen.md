@@ -91,7 +91,9 @@ Bsp:
 			- $$n(Fe_{2}O_{3}) = m/M = \frac{50*10^6g}{160{\frac{g}{mol}}}$$
 			- $$n(Fe_{2}O_{3})/312500/n(Fe) = 1:2$$
 			- n(Fe) = 625000 mol
-			- $$m(Fe)= 625000mol* $$
+			- $$m(Fe)= 625000mol*56 \frac{g}{mol} = 35.000.000g = 35t$$
+		- Umrechnung
+			- Aus 1 t Fe2O3 kan
 
 
 
