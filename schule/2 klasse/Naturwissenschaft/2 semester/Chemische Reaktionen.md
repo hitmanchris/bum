@@ -69,7 +69,9 @@ Bsp:
 		
 
 - In der Chemie geht man genau so vor:
-	- 
+- In PSE sind die Mol-massen M aller Elemente zu finden
+	- Mol-masse = g/Mol
+- 
 
 
 
