@@ -71,7 +71,12 @@ Bsp:
 - In der Chemie geht man genau so vor:
 - In PSE sind die Mol-massen M aller Elemente zu finden
 	- Masse pro mol = g/Mol
-- 
+
+
+- Übung:
+	- Stoffmenge (n) von von H2O in 0,5l Wasser
+		- Anzahl in mol
+		- 
 
 
 
