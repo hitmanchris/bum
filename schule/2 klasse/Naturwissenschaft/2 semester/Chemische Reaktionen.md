@@ -96,7 +96,9 @@ Bsp:
 			- Aus 1 t Fe2O3 kann man max 0,7t Fe gewinnen.
 
 
-
+- Bsp
+	- Kupfergewinnung:
+	- $$C
 
 
 
