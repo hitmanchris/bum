@@ -53,6 +53,7 @@ Bsp:
 
 - kann man 10^23 Teilchen abzählen?
 	- Ang: Zahlrate ist 5 Teilchen pro Sekunde
-	- Brauche dann 10^23/5 s = 
+	- Brauche dann 10^23/5 s = 0,5 * 10^23 s
+	- 
 
 
