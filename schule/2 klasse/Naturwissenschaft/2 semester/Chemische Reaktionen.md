@@ -80,6 +80,7 @@ Bsp:
 - Anwendungen:
 	- Ausbeute berechnen
 	- Bsp
+		- Fe2O3 + CO
 
 
 
