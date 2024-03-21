@@ -79,6 +79,7 @@ Bsp:
 		- ![[Zeichungen/Drawing 2024-03-21 12.38.39.excalidraw]]
 - Anwendungen:
 	- Ausbeute berechnen
+	- Bsp
 
 
 
