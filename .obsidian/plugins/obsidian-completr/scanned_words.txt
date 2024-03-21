@@ -1296,6 +1296,8 @@ Auftrag
 Aufbau
 Ausbildung
 AbncWpqJ
+Ang
+Alter
 User
 UDP
 Unshielded
@@ -1403,6 +1405,7 @@ Umgebungen
 Uy
 Uifa
 UuZsw
+Universums
 exec
 enalble
 einstellen
@@ -2769,6 +2772,7 @@ angegeben
 aufgefrischt
 anlegen
 alt
+abzählen
 BBFABBA
 Beispiel
 Bandbreite
@@ -2915,6 +2919,7 @@ Bc
 BmM
 Bauelemente
 BzvwHA
+Brauche
 Global
 Gigabit
 Goodput
@@ -4049,6 +4054,7 @@ Zowie
 Zh
 ZIsr
 Zeichen
+Zahlrate
 über
 überschneiden
 übernehemen
@@ -4392,6 +4398,7 @@ Textdesign
 Teilung
 Textblock
 Titel
+Teilchen
 oder
 of
 over
@@ -5287,6 +5294,7 @@ JxBl
 JGLhpKPi
 Jh
 JoId
+Jahr
 WwQ
 Widerstand
 Wu
