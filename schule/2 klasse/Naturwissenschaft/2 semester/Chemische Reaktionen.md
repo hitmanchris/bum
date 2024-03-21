@@ -62,8 +62,7 @@ Bsp:
 
 - Bsp 
 	- Haben 20.000 1 Euro Münzen, wissen das aber nicht.
-	- 
-
+		- Einfach wiegen → Man wiegt 1 Münze (oder 10 oder 100)
 
 
 
