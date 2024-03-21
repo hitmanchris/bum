@@ -104,7 +104,9 @@ Bsp:
 	- Wie viel Tonen CU2O Benöting man,
 		- wenn man 30t Cu2S hat?
 		- $$M(Cu) = 64 \frac{g}{mol}$$
-		- $$M(S)= 32 g_{7} 
+		- $$M(S)= 32 \frac{g}{mol}$$
+		- $$M(Cu_{2}S) = 160 \frac{g}{mol}$$
+		- $$M()Cu_{2}S = $$ 
 
 
 
