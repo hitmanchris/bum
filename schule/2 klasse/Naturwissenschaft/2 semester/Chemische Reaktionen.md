@@ -101,7 +101,7 @@ Bsp:
 	- $$Cu_{2}S + Cu_{2}O → 6Cu+SO_{2}$$
 	- Lösung
 		- $$Cu_{2}S * 2Cu_{2}O → 6Cu + SO_{2}$$
-		- 
+	- Wie viel t CU2O 
 
 
 
