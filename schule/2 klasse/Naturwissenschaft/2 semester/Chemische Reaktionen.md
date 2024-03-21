@@ -84,7 +84,8 @@ Bsp:
 			- Lösung
 				- $$Fe_{2}O_{3} + {3}CO → 2Fe + 3CO_{2}$$
 	- a)
-		- Gegeben: $$m(Fe_{2}O_{3})= $$
+		- Gegeben: $$m(Fe_{2}O_{3})=50t $$
+			- M(O) = 16 $$\frac{g}{mol}$$
 
 
 
