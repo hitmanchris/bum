@@ -56,6 +56,10 @@ Bsp:
 	- Brauche dann 10^23/5 s = 0,5 * 10^23 s
 	- Ein Jahr hat Ungefähr 31,5 * 10^6 s
 	- Man benötigt also 0,5 * 10^23 / 31,5 * 10^6
-		- = 0,02 * 10^16 = 
+		- = 0,02 * 10^16 = 2* 10^14 Jahre
+	- Alter des Universums
+		- 1,4 * 10^10 Jahr
+
+
 
 
