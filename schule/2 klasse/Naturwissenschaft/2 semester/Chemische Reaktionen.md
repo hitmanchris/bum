@@ -103,6 +103,7 @@ Bsp:
 		- $$Cu_{2}S * 2Cu_{2}O → 6Cu + SO_{2}$$
 	- Wie viel Tonen CU2O Benöting man,
 		- wenn man 30t Cu2S hat?
+		- $$M(Cu) = 64$$
 
 
 
