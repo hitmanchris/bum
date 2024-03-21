@@ -76,6 +76,7 @@ Bsp:
 - Übung:
 	- Stoffmenge (n) von von H2O in 0,5l Wasser
 		- Anzahl in mol
+		- ![[schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-21 12.38.39.excalidraw]]
 		- 
 
 
