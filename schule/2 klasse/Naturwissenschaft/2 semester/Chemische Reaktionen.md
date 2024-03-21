@@ -77,7 +77,8 @@ Bsp:
 	- Stoffmenge (n) von von H2O in 0,5l Wasser
 		- Anzahl in mol
 		- ![[Zeichungen/Drawing 2024-03-21 12.38.39.excalidraw]]
-		- 
+- Anwendungen:
+	- Ausbeute berechnen
 
 
 
