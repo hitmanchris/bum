@@ -47,6 +47,10 @@ Bsp:
 				- ![[Zeichungen/Drawing 2024-03-14 16.22.25.excalidraw]]
 				- Einheit
 					- ![[Zeichungen/Drawing 2024-03-14 16.23.07.excalidraw]]
-			- 
+
+
+1 mol = 6,022 * 10^23
+
+- kann man 10^23 Teilchen abzählen?
 
 

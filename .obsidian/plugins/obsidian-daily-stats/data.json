@@ -35,32 +35,13 @@
     "2024/2/11": 0,
     "2024/2/14": 137,
     "2024/2/19": 47,
-    "2024/2/20": 108
+    "2024/2/20": 108,
+    "2024/2/21": 12
   },
   "todaysWordCount": {
-    "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md": {
-      "initial": 581,
-      "current": 581
-    },
-    "schule/2 klasse/medtiger/2 Semester_osko_theorie.md": {
-      "initial": 253,
-      "current": 253
-    },
-    "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md": {
-      "initial": 253,
-      "current": 297
-    },
-    "interesante sachen/bum.md": {
-      "initial": 5,
-      "current": 1
-    },
-    "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md": {
-      "initial": 149,
-      "current": 153
-    },
-    "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md": {
-      "initial": 0,
-      "current": 60
+    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md": {
+      "initial": 247,
+      "current": 259
     }
   }
 }
