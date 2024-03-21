@@ -67,7 +67,9 @@ Bsp:
 		- Dann alle Münzen → 7,50 * 20.000 = 150.000g = 150 Kilogramm
 		- Anzahl an Münzen = 150.000g/7,50g = 20.000
 		
-In der Chemie eht man genau so vor:
+
+- In der Chemie geht man genau so vor:
+	- 
 
 
 
