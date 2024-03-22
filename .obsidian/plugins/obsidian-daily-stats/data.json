@@ -36,20 +36,13 @@
     "2024/2/14": 137,
     "2024/2/19": 47,
     "2024/2/20": 108,
-    "2024/2/21": 627
+    "2024/2/21": 627,
+    "2024/2/22": 241
   },
   "todaysWordCount": {
-    "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md": {
-      "initial": 247,
-      "current": 621
-    },
-    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Buch.md": {
-      "initial": 17,
-      "current": 20
-    },
-    "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe Marco edition.md": {
+    "Präsentation werkstätte info.md": {
       "initial": 0,
-      "current": 250
+      "current": 241
     }
   }
 }
