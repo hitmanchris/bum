@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "3e5665695ee971f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "95a2c173996472d4",
             "type": "leaf",
             "state": {
@@ -104,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5665695ee971f0",
+  "active": "95a2c173996472d4",
   "lastOpenFiles": [
     "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
     "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
