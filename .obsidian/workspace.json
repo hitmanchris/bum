@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3e5665695ee971f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "95a2c173996472d4",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md"
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md"
               }
             }
           },
@@ -198,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c27636bfeaf9eb06",
+  "active": "3e5665695ee971f0",
   "lastOpenFiles": [
-    "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+    "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
+    "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "schule/2 klasse/itp2_kak/2 semester/Vision.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
     "Drawing 2024-03-06 15.26.03.excalidraw.md",
@@ -226,7 +238,6 @@
     "Zeichungen/Drawing 2024-03-20 14.47.49.excalidraw.md",
     "Zeichungen/Drawing 2024-03-20 14.46.08.excalidraw.md",
     "schule/2 klasse/sytiger/elektrokak/2 semester/2 Semester_elektro.md",
-    "schule/2 klasse/medtiger/2 Semester Osko/2 Semester_osko_theorie.md",
     "schule/2 klasse/medtiger/2 Semester Osko",
     "private sachen/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
