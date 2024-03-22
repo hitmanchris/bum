@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Zeichungen",
+  "search": "-path:Zeichungen  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 0.707900207900208,
   "linkDistance": 30,
-  "scale": 0.5804431065747809,
+  "scale": 0.38047950065711295,
   "close": false
 }
