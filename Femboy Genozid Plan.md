@@ -4,7 +4,6 @@ tags:
 ---
 [[schule/BOB BEHÄLTER|BOB BEHÄLTER]]
 [[Zeichungen/bob|bob]]
-[[interesante sachen/KMS_Privat|KMS_Privat]]
 [[interesante sachen/bum|bum]]
 
 # Monologe über dem Femboyhass

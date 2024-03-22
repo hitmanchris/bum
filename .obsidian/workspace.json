@@ -35,24 +35,8 @@
             "id": "3daa74c79dcbbe60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Präsentation werkstätte info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b59877efd333240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Femboy Genozid Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -68,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Femboy Genozid Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Femboy Genozid Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Femboy Genozid Plan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,11 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b59877efd333240",
+  "active": "3daa74c79dcbbe60",
   "lastOpenFiles": [
-    "Zeichungen/itp2bum.md",
-    "Femboy Genozid Plan.md",
     "Präsentation werkstätte info.md",
+    "Femboy Genozid Plan.md",
+    "Zeichungen/itp2bum.md",
     "interesante sachen/Katze.md",
     "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe bis Seite 260.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Chemische Reaktionen.md",
