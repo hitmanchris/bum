@@ -1,3 +1,12 @@
+---
+tags:
+  - 2_klasse
+  - syt
+---
+
+
+
+
 # Ram (Randoms Access Memory)
 
 Der Arbeitsspeicher wird zur Speicherung der aktuell laufenden Programme verwendet, die gerade ausgeführt werden, und der von ihnen verwendeten Daten. der Prozessot hat einen direkten, abdressbezogenen Zugriff auf einzelnen Speicherzellen des Arbeitsspeichers, sowohl um Befehle zu lesen als auch um Daten zu lesen oder zu verändern bzw. schreiben.
