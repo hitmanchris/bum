@@ -23,9 +23,11 @@
             "id": "b1bc262203a8baf4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichungen/bob.md"
+                "file": "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe bis Seite 260.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -40,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c27636bfeaf9eb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Präsentation werkstätte info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichungen/bob.md",
+                "file": "Präsentation werkstätte info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeichungen/bob.md",
+                "file": "Präsentation werkstätte info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeichungen/bob.md"
+                "file": "Präsentation werkstätte info.md"
               }
             }
           },
@@ -213,9 +227,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1bc262203a8baf4",
+  "active": "c27636bfeaf9eb06",
   "lastOpenFiles": [
+    "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
     "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe bis Seite 260.md",
+    "Zeichungen/bob.md",
+    "Zeichnungen/Drawing 2024-03-22 09.08.50.excalidraw.md",
+    "Zeichnungen",
     "Drawing 2024-03-06 15.26.03.excalidraw.md",
     "Präsentation werkstätte info.md",
     "Femboy Genozid Plan.md",
@@ -227,7 +245,6 @@
     "Zeichungen/Drawing 2024-03-21 12.38.39.excalidraw.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/🐵2 semester_Naturwissenschaft.md",
     "schule/2 klasse/Naturwissenschaft/2 semester/Drawing 2024-03-21 12.25.12.excalidraw.md",
-    "schule/2 klasse/sytiger/elektrokak/2 semester/Kapazitiver Bildwiderstand.md",
     "Zeichungen/Drawing 2024-03-20 15.11.47.excalidraw.md",
     "Zeichungen/Drawing 2024-03-20 15.02.41.excalidraw.md",
     "Zeichungen/Drawing 2024-03-20 14.53.49.excalidraw.md",
@@ -240,8 +257,6 @@
     "interesante sachen/KMS_Privat.md",
     "schule/2 klasse/medtiger/2 Semester Osko",
     "schule/2 klasse/medtiger/2 semester_loib7/2 Semester_loib.md",
-    "schule/2 klasse/sytiger/informatikbum/2 semester/2 Semester_info.md",
-    "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
     "private sachen/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs/Untitled",
     "schule/2 klasse/de_tiger/alle HÜs",
@@ -250,7 +265,6 @@
     "schule/2 klasse/tigerwerktechnik/2 semester",
     "schule/2 klasse/itp2_kak/2 semester",
     "schule/2 klasse/medtiger/2 semester_loib7",
-    "schule/2 klasse/Naturwissenschaft/2 semester",
     "schule/bilder und andere tigerische sachen/Pasted Image 20240214142130_375.png",
     "schule/bilder und andere tigerische sachen/Pasted image 20240122132642.png",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
