@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md"
+                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md"
               }
             }
           },
@@ -37,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md"
+                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md"
               }
             }
           },
@@ -209,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5665695ee971f0",
+  "active": "c27636bfeaf9eb06",
   "lastOpenFiles": [
+    "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
-    "schule/2 klasse/tigerwerktechnik/2 semester/Drawing 2024-03-22 14.02.59.excalidraw.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "schule/2 klasse/itp2_kak/2 semester/Vision.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
@@ -222,7 +221,7 @@
     "schule/2 klasse/de_tiger/alle HÜs/Inhaltsangabe bis Seite 260.md",
     "Zeichungen/bob.md",
     "Zeichnungen/Drawing 2024-03-22 09.08.50.excalidraw.md",
-    "Zeichnungen",
+    "Zeichungen/Zeichnungen",
     "Femboy Genozid Plan.md",
     "Zeichungen/itp2bum.md",
     "interesante sachen/Katze.md",
