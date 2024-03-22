@@ -37,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md"
+                "file": "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md"
               }
             }
           },
@@ -208,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c27636bfeaf9eb06",
+  "active": "3e5665695ee971f0",
   "lastOpenFiles": [
-    "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md",
+    "Zeichungen/Drawing 2024-03-22 14.02.59.excalidraw.md",
     "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md",
     "schule/2 klasse/itp2_kak/2 semester/Vision.md",
     "schule/2 klasse/sytiger/informatikbum/2 semester/Arbeitsspeicher RAM.md",
