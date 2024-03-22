@@ -37,7 +37,7 @@
     "2024/2/19": 47,
     "2024/2/20": 108,
     "2024/2/21": 627,
-    "2024/2/22": 244
+    "2024/2/22": 248
   },
   "todaysWordCount": {
     "Präsentation werkstätte info.md": {
@@ -55,6 +55,14 @@
     "schule/2 klasse/itp2_kak/2 semester/Vision.md": {
       "initial": 37,
       "current": 37
+    },
+    "schule/2 klasse/tigerwerktechnik/2 semester/2 semester_netwerk.md": {
+      "initial": 28,
+      "current": 32
+    },
+    "schule/2 klasse/tigerwerktechnik/2 semester/Host routing.md": {
+      "initial": 25,
+      "current": 25
     }
   }
 }
