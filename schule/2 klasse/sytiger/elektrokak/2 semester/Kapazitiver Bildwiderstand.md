@@ -21,7 +21,7 @@
 ![[Zeichungen/Drawing 2024-03-20 15.02.41.excalidraw]]
 
 - Bsp
-	- ![[schule/2 klasse/sytiger/elektrokak/2 semester/Drawing 2024-03-20 15.11.47.excalidraw]]
+	- ![[Zeichungen/Drawing 2024-03-20 15.11.47.excalidraw]]
 
 
 
